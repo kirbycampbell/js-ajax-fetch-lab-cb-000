@@ -1,10 +1,10 @@
-const token = '31f675213d5a7d2660bdfd23b9b2ad7512e770fd'
+
 const baseURL = 'https://api.github.com';
 const user = 'kirbycampbell';
 function getToken() {
   //change to your token to run in browser, but set
   //back to '' before committing so all tests pass
-  return '';
+  return '31f675213d5a7d2660bdfd23b9b2ad7512e770fd';
 }
 
 function forkRepo() {
