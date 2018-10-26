@@ -5,7 +5,7 @@ const user = 'kirbycampbell';
 function getToken() {
   //change to your token to run in browser, but set
   //back to '' before committing so all tests pass
-  return '31f675213d5a7d2660bdfd23b9b2ad7512e770fd';
+  return '';
 }
 
 function forkRepo() {
